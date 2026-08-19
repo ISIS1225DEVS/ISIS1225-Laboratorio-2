@@ -38,9 +38,9 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
 
 Los estudiantes editan esta sección para agregar sus nombres, correos electrónicos de Uniandes y especificar qué funcionalidad de proyecto implementarán.
 
-1. Nombre del estudiante No. 1, Correo electrónico del estudiante No. 1 Uniandes, Funcionalidad propiedad del estudiante No. 1.
-1. Nombre del estudiante No. 2, Correo electrónico del estudiante No. 2 Uniandes, Funcionalidad propiedad del estudiante No. 2.
-1. Nombre del estudiante No. 3, Correo electrónico del estudiante No. 3 Uniandes, Funcionalidad propiedad del estudiante No. 3.
+1. Juan Manuel Gonzalez, gonzalezc2345@uniandes.edu.co, Desarrollo
+2. Larry Thomas Sanchez Beltran, lt.sanchezb1@uniandes.edu.co, Desarrollo
+3. Jorge Luis Francisco Fernando Claros Segura, j.claross2@uniandes.edu.co, Desarrollo
 
 [Volver al inicio](#laboratorio-2)
 
